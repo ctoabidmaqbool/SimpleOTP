@@ -90,10 +90,6 @@
   "methods":[{"name":"AddToSelection","parameterTypes":[] },{"name":"AdviseEventAdded","parameterTypes":["int","long"] },{"name":"AdviseEventRemoved","parameterTypes":["int","long"] },{"name":"Collapse","parameterTypes":[] },{"name":"ElementProviderFromPoint","parameterTypes":["double","double"] },{"name":"Expand","parameterTypes":[] },{"name":"GetColumnHeaderItems","parameterTypes":[] },{"name":"GetColumnHeaders","parameterTypes":[] },{"name":"GetEmbeddedFragmentRoots","parameterTypes":[] },{"name":"GetFocus","parameterTypes":[] },{"name":"GetItem","parameterTypes":["int","int"] },{"name":"GetPatternProvider","parameterTypes":["int"] },{"name":"GetPropertyValue","parameterTypes":["int"] },{"name":"GetRowHeaderItems","parameterTypes":[] },{"name":"GetRowHeaders","parameterTypes":[] },{"name":"GetRuntimeId","parameterTypes":[] },{"name":"GetSelection","parameterTypes":[] },{"name":"GetVisibleRanges","parameterTypes":[] },{"name":"Invoke","parameterTypes":[] },{"name":"Move","parameterTypes":["double","double"] },{"name":"Navigate","parameterTypes":["int"] },{"name":"RangeFromChild","parameterTypes":["long"] },{"name":"RangeFromPoint","parameterTypes":["double","double"] },{"name":"RemoveFromSelection","parameterTypes":[] },{"name":"Resize","parameterTypes":["double","double"] },{"name":"Rotate","parameterTypes":["double"] },{"name":"Scroll","parameterTypes":["int","int"] },{"name":"ScrollIntoView","parameterTypes":[] },{"name":"Select","parameterTypes":[] },{"name":"SetFocus","parameterTypes":[] },{"name":"SetScrollPercent","parameterTypes":["double","double"] },{"name":"SetValue","parameterTypes":["double"] },{"name":"SetValueString","parameterTypes":["java.lang.String"] },{"name":"Toggle","parameterTypes":[] },{"name":"get_BoundingRectangle","parameterTypes":[] },{"name":"get_CanMove","parameterTypes":[] },{"name":"get_CanResize","parameterTypes":[] },{"name":"get_CanRotate","parameterTypes":[] },{"name":"get_CanSelectMultiple","parameterTypes":[] },{"name":"get_Column","parameterTypes":[] },{"name":"get_ColumnCount","parameterTypes":[] },{"name":"get_ColumnSpan","parameterTypes":[] },{"name":"get_ContainingGrid","parameterTypes":[] },{"name":"get_DocumentRange","parameterTypes":[] },{"name":"get_ExpandCollapseState","parameterTypes":[] },{"name":"get_FragmentRoot","parameterTypes":[] },{"name":"get_HorizontalScrollPercent","parameterTypes":[] },{"name":"get_HorizontalViewSize","parameterTypes":[] },{"name":"get_HorizontallyScrollable","parameterTypes":[] },{"name":"get_HostRawElementProvider","parameterTypes":[] },{"name":"get_IsReadOnly","parameterTypes":[] },{"name":"get_IsSelected","parameterTypes":[] },{"name":"get_IsSelectionRequired","parameterTypes":[] },{"name":"get_LargeChange","parameterTypes":[] },{"name":"get_Maximum","parameterTypes":[] },{"name":"get_Minimum","parameterTypes":[] },{"name":"get_Row","parameterTypes":[] },{"name":"get_RowCount","parameterTypes":[] },{"name":"get_RowOrColumnMajor","parameterTypes":[] },{"name":"get_RowSpan","parameterTypes":[] },{"name":"get_SelectionContainer","parameterTypes":[] },{"name":"get_SmallChange","parameterTypes":[] },{"name":"get_SupportedTextSelection","parameterTypes":[] },{"name":"get_ToggleState","parameterTypes":[] },{"name":"get_Value","parameterTypes":[] },{"name":"get_ValueString","parameterTypes":[] },{"name":"get_VerticalScrollPercent","parameterTypes":[] },{"name":"get_VerticalViewSize","parameterTypes":[] },{"name":"get_VerticallyScrollable","parameterTypes":[] }]
 },
 {
-  "type":"com.sun.glass.ui.win.WinAccessible",
-  "methods":[{"name":"AddToSelection","parameterTypes":[] },{"name":"AdviseEventAdded","parameterTypes":["int","long"] },{"name":"AdviseEventRemoved","parameterTypes":["int","long"] },{"name":"Collapse","parameterTypes":[] },{"name":"ElementProviderFromPoint","parameterTypes":["double","double"] },{"name":"Expand","parameterTypes":[] },{"name":"GetColumnHeaderItems","parameterTypes":[] },{"name":"GetColumnHeaders","parameterTypes":[] },{"name":"GetEmbeddedFragmentRoots","parameterTypes":[] },{"name":"GetFocus","parameterTypes":[] },{"name":"GetItem","parameterTypes":["int","int"] },{"name":"GetPatternProvider","parameterTypes":["int"] },{"name":"GetPropertyValue","parameterTypes":["int"] },{"name":"GetRowHeaderItems","parameterTypes":[] },{"name":"GetRowHeaders","parameterTypes":[] },{"name":"GetRuntimeId","parameterTypes":[] },{"name":"GetSelection","parameterTypes":[] },{"name":"GetVisibleRanges","parameterTypes":[] },{"name":"Invoke","parameterTypes":[] },{"name":"Move","parameterTypes":["double","double"] },{"name":"Navigate","parameterTypes":["int"] },{"name":"RangeFromChild","parameterTypes":["long"] },{"name":"RangeFromPoint","parameterTypes":["double","double"] },{"name":"RemoveFromSelection","parameterTypes":[] },{"name":"Resize","parameterTypes":["double","double"] },{"name":"Rotate","parameterTypes":["double"] },{"name":"Scroll","parameterTypes":["int","int"] },{"name":"ScrollIntoView","parameterTypes":[] },{"name":"Select","parameterTypes":[] },{"name":"SetFocus","parameterTypes":[] },{"name":"SetScrollPercent","parameterTypes":["double","double"] },{"name":"SetValue","parameterTypes":["double"] },{"name":"SetValueString","parameterTypes":["java.lang.String"] },{"name":"Toggle","parameterTypes":[] },{"name":"get_BoundingRectangle","parameterTypes":[] },{"name":"get_CanMove","parameterTypes":[] },{"name":"get_CanResize","parameterTypes":[] },{"name":"get_CanRotate","parameterTypes":[] },{"name":"get_CanSelectMultiple","parameterTypes":[] },{"name":"get_Column","parameterTypes":[] },{"name":"get_ColumnCount","parameterTypes":[] },{"name":"get_ColumnSpan","parameterTypes":[] },{"name":"get_ContainingGrid","parameterTypes":[] },{"name":"get_DocumentRange","parameterTypes":[] },{"name":"get_ExpandCollapseState","parameterTypes":[] },{"name":"get_FragmentRoot","parameterTypes":[] },{"name":"get_HorizontalScrollPercent","parameterTypes":[] },{"name":"get_HorizontalViewSize","parameterTypes":[] },{"name":"get_HorizontallyScrollable","parameterTypes":[] },{"name":"get_HostRawElementProvider","parameterTypes":[] },{"name":"get_IsReadOnly","parameterTypes":[] },{"name":"get_IsSelected","parameterTypes":[] },{"name":"get_IsSelectionRequired","parameterTypes":[] },{"name":"get_LargeChange","parameterTypes":[] },{"name":"get_Maximum","parameterTypes":[] },{"name":"get_Minimum","parameterTypes":[] },{"name":"get_Row","parameterTypes":[] },{"name":"get_RowCount","parameterTypes":[] },{"name":"get_RowOrColumnMajor","parameterTypes":[] },{"name":"get_RowSpan","parameterTypes":[] },{"name":"get_SelectionContainer","parameterTypes":[] },{"name":"get_SmallChange","parameterTypes":[] },{"name":"get_SupportedTextSelection","parameterTypes":[] },{"name":"get_ToggleState","parameterTypes":[] },{"name":"get_Value","parameterTypes":[] },{"name":"get_ValueString","parameterTypes":[] },{"name":"get_VerticalScrollPercent","parameterTypes":[] },{"name":"get_VerticalViewSize","parameterTypes":[] },{"name":"get_VerticallyScrollable","parameterTypes":[] }]
-},
-{
   "type":"com.sun.glass.ui.win.WinApplication"
 },
 {
@@ -130,10 +126,6 @@
   "type":"com.sun.glass.ui.win.WinSystemClipboard",
   "fields":[{"name":"ptr"}],
   "methods":[{"name":"fosSerialize","parameterTypes":["java.lang.String","long"] }]
-},
-{
-  "type":"com.sun.glass.ui.win.WinVariant",
-  "fields":[{"name":"boolVal"},{"name":"bstrVal"},{"name":"dblVal"},{"name":"fltVal"},{"name":"iVal"},{"name":"lVal"},{"name":"pDblVal"},{"name":"punkVal"},{"name":"vt"}]
 },
 {
   "type":"com.sun.glass.ui.win.WinVariant",
@@ -244,11 +236,6 @@
   "type":"java.awt.Cursor",
   "fields":[{"name":"pData"},{"name":"type"}],
   "methods":[{"name":"setPData","parameterTypes":["long"] }]
-},
-{
-  "type":"java.awt.Dimension",
-  "fields":[{"name":"height"},{"name":"width"}],
-  "methods":[{"name":"<init>","parameterTypes":["int","int"] }]
 },
 {
   "type":"java.awt.Dimension",
@@ -758,10 +745,6 @@
   "fields":[{"name":"numSrcLUT"},{"name":"srcLUTtransIndex"}]
 },
 {
-  "type":"sun.awt.image.ImageRepresentation",
-  "fields":[{"name":"numSrcLUT"},{"name":"srcLUTtransIndex"}]
-},
-{
   "type":"sun.awt.image.IntegerComponentRaster",
   "fields":[{"name":"data"},{"name":"dataOffsets"},{"name":"pixelStride"},{"name":"scanlineStride"},{"name":"type"}]
 },
@@ -802,11 +785,6 @@
 {
   "type":"sun.awt.windows.WDesktopPeer",
   "methods":[{"name":"systemSleepCallback","parameterTypes":["boolean"] },{"name":"userSessionCallback","parameterTypes":["boolean","java.awt.desktop.UserSessionEvent$Reason"] }]
-},
-{
-  "type":"sun.awt.windows.WDesktopProperties",
-  "fields":[{"name":"pData"}],
-  "methods":[{"name":"setBooleanProperty","parameterTypes":["java.lang.String","boolean"] },{"name":"setColorProperty","parameterTypes":["java.lang.String","int","int","int"] },{"name":"setFontProperty","parameterTypes":["java.lang.String","java.lang.String","int","int"] },{"name":"setIntegerProperty","parameterTypes":["java.lang.String","int"] },{"name":"setSoundProperty","parameterTypes":["java.lang.String","java.lang.String"] },{"name":"setStringProperty","parameterTypes":["java.lang.String","java.lang.String"] }]
 },
 {
   "type":"sun.awt.windows.WDesktopProperties",

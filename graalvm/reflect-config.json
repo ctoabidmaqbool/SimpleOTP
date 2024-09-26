@@ -38,10 +38,6 @@
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "type":"com.sun.java.swing.plaf.windows.WindowsLookAndFeel",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
   "type":"com.sun.javafx.font.directwrite.DWFactory",
   "methods":[{"name":"getFactory","parameterTypes":[] }]
 },
@@ -110,19 +106,11 @@
   "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
 },
 {
-  "type":"com.sun.prism.shader.FillPgram_LinearGradient_PAD_Loader",
-  "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
-},
-{
   "type":"com.sun.prism.shader.Solid_TextureFirstPassLCD_Loader",
   "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
 },
 {
   "type":"com.sun.prism.shader.Solid_TextureFirstPassLCD_Loader",
-  "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
-},
-{
-  "type":"com.sun.prism.shader.Solid_TextureRGB_Loader",
   "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
 },
 {
@@ -142,14 +130,6 @@
   "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
 },
 {
-  "type":"com.sun.prism.shader.Texture_Color_Loader",
-  "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
-},
-{
-  "type":"com.sun.prism.shader.Texture_LinearGradient_PAD_Loader",
-  "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
-},
-{
   "type":"com.sun.prism.shader.Texture_LinearGradient_PAD_Loader",
   "methods":[{"name":"loadShader","parameterTypes":["com.sun.prism.ps.ShaderFactory","java.io.InputStream"] }]
 },
@@ -158,10 +138,6 @@
 },
 {
   "type":"java.awt.SequencedEvent"
-},
-{
-  "type":"java.awt.SystemColor",
-  "fields":[{"name":"activeCaption"},{"name":"activeCaptionBorder"},{"name":"activeCaptionText"},{"name":"control"},{"name":"controlDkShadow"},{"name":"controlHighlight"},{"name":"controlLtHighlight"},{"name":"controlShadow"},{"name":"controlText"},{"name":"desktop"},{"name":"inactiveCaption"},{"name":"inactiveCaptionBorder"},{"name":"inactiveCaptionText"},{"name":"info"},{"name":"infoText"},{"name":"menu"},{"name":"menuPressedItemB"},{"name":"menuPressedItemF"},{"name":"menuText"},{"name":"scrollbar"},{"name":"text"},{"name":"textHighlight"},{"name":"textHighlightText"},{"name":"textInactiveText"},{"name":"textText"},{"name":"window"},{"name":"windowBorder"},{"name":"windowText"}]
 },
 {
   "type":"java.awt.SystemColor",
@@ -200,6 +176,14 @@
   "methods":[{"name":"boot","parameterTypes":[] },{"name":"findModule","parameterTypes":["java.lang.String"] }]
 },
 {
+  "type":"java.lang.Thread",
+  "fields":[{"name":"threadLocalRandomProbe"}]
+},
+{
+  "type":"java.lang.Thread",
+  "fields":[{"name":"threadLocalRandomProbe"}]
+},
+{
   "type":"java.nio.ByteBuffer",
   "methods":[{"name":"order","parameterTypes":["java.nio.ByteOrder"] }]
 },
@@ -222,6 +206,14 @@
 {
   "type":"java.util.concurrent.atomic.AtomicReference",
   "fields":[{"name":"value"}]
+},
+{
+  "type":"java.util.concurrent.atomic.Striped64",
+  "fields":[{"name":"base"},{"name":"cellsBusy"}]
+},
+{
+  "type":"java.util.concurrent.atomic.Striped64",
+  "fields":[{"name":"base"},{"name":"cellsBusy"}]
 },
 {
   "type":"javafx.scene.Camera"
@@ -264,9 +256,6 @@
 },
 {
   "type":"javafx.scene.image.Image"
-},
-{
-  "type":"javafx.scene.image.ImageView"
 },
 {
   "type":"javafx.scene.image.ImageView"
@@ -343,9 +332,9 @@
   "type":"javax.imageio.spi.ImageWriterSpi"
 },
 {
-  "name": "sun.awt.HeadlessToolkit",
-  "allDeclaredFields": true,
-  "allDeclaredMethods": true
+  "type":"sun.awt.HeadlessToolkit",
+  "allDeclaredFields":true,
+  "allDeclaredMethods":true
 },
 {
   "type":"sun.awt.Symbol",
@@ -370,10 +359,6 @@
 {
   "type":"sun.java2d.marlin.DMarlinRenderingEngine",
   "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "type":"sun.misc.Unsafe",
-  "fields":[{"name":"theUnsafe"}]
 },
 {
   "type":"sun.misc.Unsafe",

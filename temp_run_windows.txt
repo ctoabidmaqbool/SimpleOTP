@@ -16,6 +16,7 @@ set T=%JP%\target
 
 %T%\SimpleOTP.exe
 
+
 set PATH=C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\;%PATH%
 windbg %T%\SimpleOTP.exe
 
@@ -26,8 +27,6 @@ windbg %T%\SimpleOTP.exe
 set GRAALVM_HOME=D:\Programs\graalvm-community-jdk-23.0.0_windows-x64_bin
 set JAVA_HOME=%GRAALVM_HOME%
 set PATH=%JAVA_HOME%\bin;%PATH%
-
-
 
 export GRAALVM_HOME=/mnt/d/Programs/graalvm-svm-java17-linux-gluon-22.1.0.1-Final
 export JAVA_HOME=$GRAALVM_HOME

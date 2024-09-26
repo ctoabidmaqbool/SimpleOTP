@@ -7,6 +7,10 @@
   },{
     "pattern":"\\QMETA-INF\/services\/java.lang.System$LoggerFinder\\E"
   },{
+    "pattern":"\\QMETA-INF\/services\/java.net.spi.InetAddressResolverProvider\\E"
+  },{
+    "pattern":"\\QMETA-INF\/services\/java.net.spi.URLStreamHandlerProvider\\E"
+  },{
     "pattern":"\\QMETA-INF\/services\/javax.imageio.spi.ImageInputStreamSpi\\E"
   },{
     "pattern":"\\QMETA-INF\/services\/javax.imageio.spi.ImageOutputStreamSpi\\E"
@@ -2709,11 +2713,11 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zu_ZA.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/modena\/dialog-information.png\\E"
+  },{
     "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/resources\/controls_en.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/resources\/controls_en_US.properties\\E"
-  },{
-    "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/modena\/dialog-information.png\\E"
   },{
     "pattern":"\\Qcom\/sun\/javafx\/tk\/quantum\/QuantumMessagesBundle_en.properties\\E"
   },{
