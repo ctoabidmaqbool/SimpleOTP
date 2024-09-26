@@ -1,0 +1,35 @@
+export GRAALVM_HOME=/mnt/d/Programs/graalvm-java23-linux-amd64-gluon-23+25.1-dev
+export JAVA_HOME=$GRAALVM_HOME
+export PATH="$JAVA_HOME/bin:$PATH"
+export ANDROID_SDK=/mnt/d/AndroidSDKLinux
+# export ANDROID_NDK=/mnt/d/AndroidSDKLinux/ndk-bundle
+export ANDROID_NDK=/mnt/d/AndroidSDKLinux/ndk/25.2.9519653
+export PATH="$ANDROID_SDK/platform-tools:$PATH"
+export MAVEN_HOME="/mnt/d/Programs/apache-maven-3.9.9-bin"
+export PATH="$MAVEN_HOME/bin:$PATH"
+export GRALDE_HOME="/mnt/d/Programs/gradle-7.3.3-bin"
+export PATH="$GRALDE_HOME/bin:$PATH"
+export GRADLE_USER_HOME=/mnt/d/.my-gradle-linux
+
+
+dos2unix run.sh
+./run.sh
+
+
+
+
+
+export GRAALVM_HOME=/mnt/d/Programs/graalvm-svm-java17-linux-gluon-22.1.0.1-Final
+export JAVA_HOME=$GRAALVM_HOME
+export PATH="$JAVA_HOME/bin:$PATH"
+
+
+export GRAALVM_HOME=/mnt/d/Programs/graalvm-community-jdk-22.0.2_linux-x64_bin
+export JAVA_HOME=$GRAALVM_HOME
+export PATH="$JAVA_HOME/bin:$PATH"
+
+
+
+export GRAALVM_HOME=/mnt/d/Programs/graalvm-java23-windows-amd64-gluon-23+25.1-dev
+export JAVA_HOME=$GRAALVM_HOME
+export PATH="$JAVA_HOME/bin:$PATH"

@@ -1,0 +1,159 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.simtechdata</groupId>
+    <artifactId>SimpleOTP</artifactId>
+    <version>1.0</version>
+
+    <name>SimpleOTP</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <javafx.version>22</javafx.version>
+        <source.target.release>23</source.target.release>
+        <maven-compiler-plugin>3.13.0</maven-compiler-plugin>
+        <maven-jar-plugin>3.4.2</maven-jar-plugin>
+        <maven-enforcer-plugin>3.5.0</maven-enforcer-plugin>
+        <maven-assembly-plugin>3.7.1</maven-assembly-plugin>
+        <maven-dependency-plugin>3.8.0</maven-dependency-plugin>
+        <exec-maven-plugin>3.2.0</exec-maven-plugin>
+        <exec.domain>com.simtechdata</exec.domain>
+        <mainClass>com.simtechdata.Main1</mainClass>
+        <javapackager>1.7.5</javapackager>
+        <gluonfx-maven-plugin>1.0.22</gluonfx-maven-plugin>
+        <javafx-maven-plugin>0.0.8</javafx-maven-plugin>
+        <gluonfx.target>22</gluonfx.target>
+        <moditect-maven-plugin>1.2.1.Final</moditect-maven-plugin>
+        <versions-maven-plugin>2.17.1</versions-maven-plugin>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>${javafx.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-web</artifactId>
+            <version>${javafx.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-swing</artifactId>
+            <version>${javafx.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.dustinredmond.fxtrayicon</groupId>
+            <artifactId>FXTrayIcon</artifactId>
+            <version>4.2.0</version>
+        </dependency>
+    </dependencies>
+
+    <repositories>
+        <repository>
+            <id>Gluon</id>
+            <url>https://nexus.gluonhq.com/nexus/content/repositories/releases</url>
+        </repository>
+    </repositories>
+
+    <build>
+        <plugins>
+            <!--Maven Versions-->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>versions-maven-plugin</artifactId>
+                <version>${versions-maven-plugin}</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>display-dependency-updates</goal>
+                            <goal>display-plugin-updates</goal>
+                            <goal>property-updates-report</goal>
+                            <goal>dependency-updates-report</goal>
+                            <goal>plugin-updates-report</goal>
+                            <goal>update-properties</goal>
+                            <goal>use-latest-versions</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <!--Maven Enforcer Plugin-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-enforcer-plugin</artifactId>
+                <version>${maven-enforcer-plugin}</version>
+                <executions>
+                    <execution>
+                        <id>enforce-maven</id>
+                        <goals>
+                            <goal>enforce</goal>
+                        </goals>
+                        <configuration>
+                            <rules>
+                                <requireMavenVersion>
+                                    <version>3.9.9</version>
+                                </requireMavenVersion>
+                            </rules>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <!--Maven Compiler-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>${maven-compiler-plugin}</version>
+                <configuration>
+                    <source>${source.target.release}</source>
+                    <target>${source.target.release}</target>
+                    <compilerArgs>--enable-preview</compilerArgs>
+                </configuration>
+            </plugin>
+
+            <!--Maven Jar-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>${maven-jar-plugin}</version>
+                <configuration>
+                    <skipIfEmpty>true</skipIfEmpty>
+                    <archive>
+                        <manifestEntries>
+                            <Main-Class>${mainClass}</Main-Class>
+                            <Automatic-Module-Name>${project.artifactId}</Automatic-Module-Name>
+                            <Program-Version>${project.version}</Program-Version>
+                            <Implementation-Version>${project.version}</Implementation-Version>
+                        </manifestEntries>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <mainClass>${mainClass}</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+
+            <!--Maven Dependency Plugin - for collecting modules-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <version>${maven-dependency-plugin}</version>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>copy-dependencies</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>${project.build.directory}/modules</outputDirectory>
+                            <includeScope>runtime</includeScope>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>

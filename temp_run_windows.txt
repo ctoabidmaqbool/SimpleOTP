@@ -1,0 +1,73 @@
+set GRAALVM_HOME=D:\Programs\graalvm-java23-windows-amd64-gluon-23+25.1-dev
+set JAVA_HOME=%GRAALVM_HOME%
+set PATH=%JAVA_HOME%\bin;%PATH%
+set MAVEN_HOME=D:\Programs\apache-maven-3.9.9-bin
+set PATH=%MAVEN_HOME%\bin;%PATH%
+set GRADLE_HOME=D:\Programs\gradle-7.3.3-bin
+set PATH=%GRADLE_HOME%\bin;%PATH%
+set GRADLE_USER_HOME=D:\.my-gradle
+
+
+run.bat
+make.bat
+
+
+set JP=D:\GraalVM-Projects\gluonhq\SimpleOTP
+set G=%JP%\graalvm
+set T=%JP%\target
+
+
+set PATH=C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\;%PATH%
+windbg %T%\SimpleOTP.exe
+
+
+
+
+
+set GRAALVM_HOME=D:\Programs\graalvm-community-jdk-23.0.0_windows-x64_bin
+set JAVA_HOME=%GRAALVM_HOME%
+set PATH=%JAVA_HOME%\bin;%PATH%
+
+
+
+export GRAALVM_HOME=/mnt/d/Programs/graalvm-svm-java17-linux-gluon-22.1.0.1-Final
+export JAVA_HOME=$GRAALVM_HOME
+export PATH="$JAVA_HOME/bin:$PATH"
+
+export GRAALVM_HOME=/mnt/d/Programs/graalvm-community-jdk-22.0.2_linux-x64_bin
+export JAVA_HOME=$GRAALVM_HOME
+export PATH="$JAVA_HOME/bin:$PATH"
+
+export GRAALVM_HOME=/mnt/d/Programs/graalvm-java23-windows-amd64-gluon-23+25.1-dev
+export JAVA_HOME=$GRAALVM_HOME
+export PATH="$JAVA_HOME/bin:$PATH"
+
+
+@echo off
+set JP=D:\GraalVM-Projects\gluonhq\SimpleOTP
+set G=%JP%\graalvm
+set T=%JP%\target
+
+REM Clean and install the Maven project
+call mvn -f "%JP%\pom.xml" clean
+call mvn -f "%JP%\pom.xml" install
+
+REM Run the project with GraalVM native-image agent
+java ^
+--enable-preview ^
+-agentlib:native-image-agent=config-merge-dir="%G%" ^
+--module-path "%T%\SimpleOTP-1.0.jar;%T%\modules" ^
+-m SimpleOTP/com.simtechdata.Main graalvm
+
+REM Run the project on JVM
+java ^
+--enable-preview ^
+--module-path "%T%\SimpleOTP-1.0.jar;%T%\modules" ^
+-m SimpleOTP/com.simtechdata.Main
+
+
+
+
+java --enable-preview -agentlib:native-image-agent=config-merge-dir="%G%" --module-path "%T%\SimpleOTP-1.0.jar;%T%\modules" -m SimpleOTP/com.simtechdata.Main graalvm
+
+java --enable-preview --module-path D:\GraalVM-Projects\gluonhq\SimpleOTP\target\SimpleOTP-1.0.jar;D:\GraalVM-Projects\gluonhq\SimpleOTP\target\modules -m SimpleOTP/com.simtechdata.Main graalvm
