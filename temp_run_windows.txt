@@ -7,15 +7,14 @@ set GRADLE_HOME=D:\Programs\gradle-7.3.3-bin
 set PATH=%GRADLE_HOME%\bin;%PATH%
 set GRADLE_USER_HOME=D:\.my-gradle
 
-
-run.bat
-make.bat
-
-
 set JP=D:\GraalVM-Projects\gluonhq\SimpleOTP
 set G=%JP%\graalvm
 set T=%JP%\target
 
+%JP%\run.bat
+%JP%\make.bat
+
+%T%\SimpleOTP.exe
 
 set PATH=C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\;%PATH%
 windbg %T%\SimpleOTP.exe

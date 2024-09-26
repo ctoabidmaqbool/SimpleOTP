@@ -343,6 +343,11 @@
   "type":"javax.imageio.spi.ImageWriterSpi"
 },
 {
+  "name": "sun.awt.HeadlessToolkit",
+  "allDeclaredFields": true,
+  "allDeclaredMethods": true
+},
+{
   "type":"sun.awt.Symbol",
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },

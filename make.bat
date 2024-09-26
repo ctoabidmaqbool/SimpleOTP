@@ -16,6 +16,8 @@ call native-image ^
 --add-opens java.net.http/java.net.http=ALL-UNNAMED ^
 --add-opens java.base/java.net=ALL-UNNAMED ^
 --module-path "%T%\SimpleOTP-1.0.jar;%T%\modules" ^
+--add-modules javafx.controls,javafx.graphics,javafx.base ^
+--initialize-at-run-time=sun.java2d.cmm.ProfileDeferralInfo ^
 --module SimpleOTP/com.simtechdata.Main ^
 -H:+UnlockExperimentalVMOptions ^
 -H:+ReportExceptionStackTraces ^
@@ -26,7 +28,10 @@ call native-image ^
 -H:SerializationConfigurationFiles="%G%\serialization-config.json" ^
 -H:GenerateDebugInfo=1 ^
 -H:DebugInfoSourceSearchPath="%T%\src" ^
--H:Name="%T%\SimpleOTP"
+-H:+IncludeAllTimeZones ^
+--initialize-at-build-time=java.awt,javax.swing ^
+-H:Name="%T%\SimpleOTP" ^
+-Djava.awt.headless=true
 
 REM Copy the resulting executable to the target directory
 xcopy /Y "%T%\SimpleOTP.exe" .
