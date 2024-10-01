@@ -7,15 +7,15 @@ REM Clean and install the Maven project
 call mvn -f "%JP%\pom.xml" clean
 call mvn -f "%JP%\pom.xml" install
 
-REM Run the project with GraalVM native-image agent
+REM Run the project with GraalVM native-image agent (un-modularized)
 java ^
 --enable-preview ^
 -agentlib:native-image-agent=config-merge-dir="%G%" ^
---module-path "%T%\SimpleOTP-1.0.jar;%T%\modules" ^
--m SimpleOTP/com.simtechdata.Main graalvm
+-cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" ^
+com.simtechdata.Main
 
-REM Run the project on JVM
+REM Run the project on JVM (un-modularized)
 java ^
 --enable-preview ^
---module-path "%T%\SimpleOTP-1.0.jar;%T%\modules" ^
--m SimpleOTP/com.simtechdata.Main
+-cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" ^
+com.simtechdata.Main

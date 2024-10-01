@@ -11,6 +11,10 @@
   },{
     "pattern":"\\QMETA-INF\/services\/java.net.spi.URLStreamHandlerProvider\\E"
   },{
+    "pattern":"\\QMETA-INF\/services\/java.time.zone.ZoneRulesProvider\\E"
+  },{
+    "pattern":"\\QMETA-INF\/services\/java.util.spi.ResourceBundleControlProvider\\E"
+  },{
     "pattern":"\\QMETA-INF\/services\/javax.imageio.spi.ImageInputStreamSpi\\E"
   },{
     "pattern":"\\QMETA-INF\/services\/javax.imageio.spi.ImageOutputStreamSpi\\E"
@@ -22,6 +26,90 @@
     "pattern":"\\QMETA-INF\/services\/javax.imageio.spi.ImageWriterSpi\\E"
   },{
     "pattern":"\\QMETA-INF\/services\/jdk.vm.ci.services.JVMCIServiceLocator\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-console-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-console-l1-2-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-datetime-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-debug-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-errorhandling-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-file-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-file-l1-2-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-file-l2-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-handle-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-heap-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-interlocked-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-libraryloader-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-localization-l1-2-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-memory-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-namedpipe-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-processenvironment-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-processthreads-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-processthreads-l1-1-1.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-profile-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-rtlsupport-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-string-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-synch-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-synch-l1-2-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-sysinfo-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-timezone-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-core-util-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-conio-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-convert-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-environment-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-filesystem-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-heap-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-locale-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-math-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-multibyte-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-private-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-process-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-runtime-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-stdio-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-string-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-time-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qapi-ms-win-crt-utility-l1-1-0.dll\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_af.properties\\E"
   },{
@@ -403,6 +491,8 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_dav_Latn_KE.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_de.properties\\E"
+  },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_de_AT.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_de_BE.properties\\E"
@@ -498,6 +588,8 @@
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_el_Grek_GR.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_el__POLYTON.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_en.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_en_001.properties\\E"
   },{
@@ -727,6 +819,8 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_eo_Latn_001.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_es.properties\\E"
+  },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_es_419.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_es_AR.properties\\E"
@@ -924,6 +1018,8 @@
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_fo_Latn.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_fo_Latn_FO.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_fr.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_fr_BE.properties\\E"
   },{
@@ -1221,6 +1317,14 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ii_Yiii_CN.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_in.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_in_ID.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_in_Latn.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_in_Latn_ID.properties\\E"
+  },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_is.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_is_IS.properties\\E"
@@ -1228,6 +1332,8 @@
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_is_Latn.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_is_Latn_IS.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_it.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_it_CH.properties\\E"
   },{
@@ -1240,6 +1346,16 @@
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_it_SM.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_it_VA.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_iw.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_iw_Hebr.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_iw_Hebr_IL.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_iw_IL.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ja.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ja_JP.properties\\E"
   },{
@@ -1256,6 +1372,14 @@
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_jgo_Latn.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_jgo_Latn_CM.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ji.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ji_Hebr.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ji_Hebr_UA.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ji_UA.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_jmc.properties\\E"
   },{
@@ -1384,6 +1508,8 @@
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_kn_Knda.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_kn_Knda_IN.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ko.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_ko_CN.properties\\E"
   },{
@@ -1987,6 +2113,8 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_pt_AO.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_pt_BR.properties\\E"
+  },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_pt_CH.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_pt_CV.properties\\E"
@@ -2322,6 +2450,8 @@
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_su_Latn.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_su_Latn_ID.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_sv.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_sv_AX.properties\\E"
   },{
@@ -2681,6 +2811,8 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zh.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zh_CN.properties\\E"
+  },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zh_HK.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zh_Hans.properties\\E"
@@ -2705,6 +2837,8 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zh_SG.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zh_TW.properties\\E"
+  },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zu.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zu_Latn.properties\\E"
@@ -2713,15 +2847,45 @@
   },{
     "pattern":"\\Qcom\/sun\/glass\/ui\/win\/themes_zu_ZA.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/glass\/utils\/NativeLibLoader.class\\E"
+  },{
     "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/modena\/dialog-information.png\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/modena\/modena.bss\\E"
   },{
     "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/resources\/controls_en.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/javafx\/scene\/control\/skin\/resources\/controls_en_US.properties\\E"
   },{
+    "pattern":"\\Qcom\/sun\/javafx\/tk\/quantum\/QuantumMessagesBundle.properties\\E"
+  },{
     "pattern":"\\Qcom\/sun\/javafx\/tk\/quantum\/QuantumMessagesBundle_en.properties\\E"
   },{
     "pattern":"\\Qcom\/sun\/javafx\/tk\/quantum\/QuantumMessagesBundle_en_US.properties\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/prism\/d3d\/hlsl\/FillPgram_Color.obj\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/prism\/d3d\/hlsl\/Solid_TextureFirstPassLCD.obj\\E"
+  },{
+    "pattern":"\\Qcom\/sun\/prism\/d3d\/hlsl\/Solid_TextureSecondPassLCD.obj\\E"
+  },{
+    "pattern":"\\Qglass.dll\\E"
+  },{
+    "pattern":"\\Qjavafx_font.dll\\E"
+  },{
+    "pattern":"\\Qmsvcp140.dll\\E"
+  },{
+    "pattern":"\\Qmsvcp140_1.dll\\E"
+  },{
+    "pattern":"\\Qmsvcp140_2.dll\\E"
+  },{
+    "pattern":"\\Qprism_d3d.dll\\E"
+  },{
+    "pattern":"\\Qucrtbase.dll\\E"
+  },{
+    "pattern":"\\Qvcruntime140.dll\\E"
+  },{
+    "pattern":"\\Qvcruntime140_1.dll\\E"
   },{
     "pattern":"java.base:\\Qjava\/lang\/Class.class\\E"
   },{
@@ -2736,6 +2900,10 @@
     "pattern":"java.base:\\Qjava\/lang\/reflect\/Modifier.class\\E"
   },{
     "pattern":"java.base:\\Qjdk\/internal\/icu\/impl\/data\/icudt74b\/ubidi.icu\\E"
+  },{
+    "pattern":"java.base:\\Qsun\/launcher\/resources\/launcher_en.properties\\E"
+  },{
+    "pattern":"java.base:\\Qsun\/launcher\/resources\/launcher_en_US.properties\\E"
   },{
     "pattern":"java.desktop:\\Qcom\/sun\/java\/swing\/plaf\/windows\/resources\/windows_en.properties\\E"
   },{
@@ -2752,6 +2920,10 @@
     "pattern":"java.desktop:\\Qsun\/awt\/windows\/awtLocalization_en.properties\\E"
   },{
     "pattern":"java.desktop:\\Qsun\/awt\/windows\/awtLocalization_en_US.properties\\E"
+  },{
+    "pattern":"java.logging:\\Qsun\/util\/logging\/resources\/logging_en.properties\\E"
+  },{
+    "pattern":"java.logging:\\Qsun\/util\/logging\/resources\/logging_en_US.properties\\E"
   },{
     "pattern":"javafx.controls:\\Qcom\/sun\/javafx\/scene\/control\/skin\/modena\/modena.bss\\E"
   },{

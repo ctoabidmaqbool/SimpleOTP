@@ -17,6 +17,15 @@ set T=%JP%\target
 %T%\SimpleOTP.exe
 
 
+java --enable-preview -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+
+java --enable-preview -agentlib:native-image-agent=config-merge-dir="%G%" -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+
+native-image --no-fallback --verbose --enable-url-protocols=http --enable-preview --add-modules java.net.http --add-opens java.net.http/java.net.http=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main -H:+UnlockExperimentalVMOptions -H:+ReportExceptionStackTraces -H:JNIConfigurationFiles="%G%\jni-config.json" -H:DynamicProxyConfigurationFiles="%G%\proxy-config.json" -H:ReflectionConfigurationFiles="%G%\reflect-config.json" -H:ResourceConfigurationFiles="%G%\resource-config.json" -H:SerializationConfigurationFiles="%G%\serialization-config.json" -H:GenerateDebugInfo=1 -H:DebugInfoSourceSearchPath="%T%\src" -H:Name="%T%\SimpleOTP"
+
+native-image --no-fallback --verbose --enable-url-protocols=http --enable-preview -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main -H:JNIConfigurationFiles="%G%\jni-config.json" -H:DynamicProxyConfigurationFiles="%G%\proxy-config.json" -H:ReflectionConfigurationFiles="%G%\reflect-config.json" -H:ResourceConfigurationFiles="%G%\resource-config.json" -H:SerializationConfigurationFiles="%G%\serialization-config.json" -H:GenerateDebugInfo=1 -H:DebugInfoSourceSearchPath="%T%\src" -H:Name="%T%\SimpleOTP"
+
+
 set PATH=C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\;%PATH%
 windbg %T%\SimpleOTP.exe
 

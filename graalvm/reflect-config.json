@@ -4,8 +4,12 @@
   "methods":[{"name":"<init>","parameterTypes":[] },{"name":"main","parameterTypes":["java.lang.String[]"] }]
 },
 {
-  "type":"com.simtechdata.Main",
-  "methods":[{"name":"<init>","parameterTypes":[] },{"name":"main","parameterTypes":["java.lang.String[]"] }]
+  "type":"com.simtechdata.MyTrayIcon",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "type":"com.simtechdata.MyTrayIcon",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
   "type":"com.sun.glass.ui.Screen"
@@ -156,20 +160,8 @@
   "methods":[{"name":"forName","parameterTypes":["java.lang.Module","java.lang.String"] },{"name":"getModule","parameterTypes":[] }]
 },
 {
-  "type":"java.lang.Class",
-  "methods":[{"name":"forName","parameterTypes":["java.lang.Module","java.lang.String"] },{"name":"getModule","parameterTypes":[] }]
-},
-{
   "type":"java.lang.Module",
   "methods":[{"name":"getDescriptor","parameterTypes":[] },{"name":"getLayer","parameterTypes":[] },{"name":"getName","parameterTypes":[] }]
-},
-{
-  "type":"java.lang.Module",
-  "methods":[{"name":"getDescriptor","parameterTypes":[] },{"name":"getLayer","parameterTypes":[] },{"name":"getName","parameterTypes":[] }]
-},
-{
-  "type":"java.lang.ModuleLayer",
-  "methods":[{"name":"boot","parameterTypes":[] },{"name":"findModule","parameterTypes":["java.lang.String"] }]
 },
 {
   "type":"java.lang.ModuleLayer",
