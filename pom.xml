@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <javafx.version>22</javafx.version>
-        <source.target.release>23</source.target.release>
+        <source.target.release>24</source.target.release>
         <maven-compiler-plugin>3.13.0</maven-compiler-plugin>
         <maven-jar-plugin>3.4.2</maven-jar-plugin>
         <maven-enforcer-plugin>3.5.0</maven-enforcer-plugin>
@@ -48,6 +48,16 @@
             <groupId>com.dustinredmond.fxtrayicon</groupId>
             <artifactId>FXTrayIcon</artifactId>
             <version>4.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.dorkbox</groupId>
+            <artifactId>SystemTray</artifactId>
+            <version>4.4</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-jdk14</artifactId>
+            <version>1.8.0-beta4</version>
         </dependency>
     </dependencies>
 

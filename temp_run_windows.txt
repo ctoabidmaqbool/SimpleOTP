@@ -17,13 +17,35 @@ set T=%JP%\target
 %T%\SimpleOTP.exe
 
 
+call mvn -f "%JP%\pom.xml" clean
+call mvn -f "%JP%\pom.xml" install
+
 java --enable-preview -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
 
 java --enable-preview -agentlib:native-image-agent=config-merge-dir="%G%" -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+java --enable-preview --module-path "%T%\modules" --add-modules javafx.controls,javafx.graphics -agentlib:native-image-agent=config-merge-dir="%G%" -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+java --enable-preview --enable-native-access=ALL-UNNAMED -agentlib:native-image-agent=config-merge-dir="%G%" -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
 
-native-image --no-fallback --verbose --enable-url-protocols=http --enable-preview --add-modules java.net.http --add-opens java.net.http/java.net.http=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main -H:+UnlockExperimentalVMOptions -H:+ReportExceptionStackTraces -H:JNIConfigurationFiles="%G%\jni-config.json" -H:DynamicProxyConfigurationFiles="%G%\proxy-config.json" -H:ReflectionConfigurationFiles="%G%\reflect-config.json" -H:ResourceConfigurationFiles="%G%\resource-config.json" -H:SerializationConfigurationFiles="%G%\serialization-config.json" -H:GenerateDebugInfo=1 -H:DebugInfoSourceSearchPath="%T%\src" -H:Name="%T%\SimpleOTP"
+java -agentlib:native-image-agent=config-output-dir=graalvm-config-dir -cp "your-classpath" com.simtechdata.Main
+
+
+java --enable-preview --enable-native-access=ALL-UNNAMED -agentlib:native-image-agent=config-output-dir="%G%" -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+
+
+--no-fallback --verbose --enable-url-protocols=http --enable-preview --add-modules java.net.http --add-opens java.net.http/java.net.http=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main -H:+UnlockExperimentalVMOptions -H:+ReportExceptionStackTraces -H:JNIConfigurationFiles="%G%\jni-config.json" -H:DynamicProxyConfigurationFiles="%G%\proxy-config.json" -H:ReflectionConfigurationFiles="%G%\reflect-config.json" -H:ResourceConfigurationFiles="%G%\resource-config.json" -H:SerializationConfigurationFiles="%G%\serialization-config.json" -H:GenerateDebugInfo=1 -H:DebugInfoSourceSearchPath="%T%\src" -H:Name="%T%\SimpleOTP"
 
 native-image --no-fallback --verbose --enable-url-protocols=http --enable-preview -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main -H:JNIConfigurationFiles="%G%\jni-config.json" -H:DynamicProxyConfigurationFiles="%G%\proxy-config.json" -H:ReflectionConfigurationFiles="%G%\reflect-config.json" -H:ResourceConfigurationFiles="%G%\resource-config.json" -H:SerializationConfigurationFiles="%G%\serialization-config.json" -H:GenerateDebugInfo=1 -H:DebugInfoSourceSearchPath="%T%\src" -H:Name="%T%\SimpleOTP"
+
+
+native-image --enable-preview -H:ConfigurationFileDirectories="%G%" -H:Name=SimpleOTP --no-fallback -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+
+native-image --enable-preview -H:Name=SimpleOTP --no-fallback --report-unsupported-elements-at-runtime --initialize-at-build-time=javafx.** -H:+TraceClassInitialization -H:ConfigurationFileDirectories=%G% -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+
+native-image --enable-preview -H:Name=SimpleOTP --no-fallback --initialize-at-build-time=javafx.scene.transform.Rotate$MatrixCache -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+
+native-image --enable-preview -H:Name=SimpleOTP --no-fallback --initialize-at-build-time=javafx.scene.transform.Rotate$MatrixCache -cp "%T%\SimpleOTP-1.0.jar;%T%\modules\*" com.simtechdata.Main
+
+native-image --module-path "path_to_javafx_modules" --add-modules javafx.controls,javafx.fxml ...
 
 
 set PATH=C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\;%PATH%
@@ -31,7 +53,15 @@ windbg %T%\SimpleOTP.exe
 
 
 
+set GRAALVM_HOME=D:\Programs\graalvm-community-java24-windows-amd64-dev
+set JAVA_HOME=%GRAALVM_HOME%
+set PATH=%JAVA_HOME%\bin;%PATH%
+set MAVEN_HOME=D:\Programs\apache-maven-4.0.0-beta-4-bin
+set PATH=%MAVEN_HOME%\bin;%PATH%
 
+set GRAALVM_HOME=D:\Programs\graalvm-jdk-24.0.0-ea.15_windows-x64_bin
+set JAVA_HOME=%GRAALVM_HOME%
+set PATH=%JAVA_HOME%\bin;%PATH%
 
 set GRAALVM_HOME=D:\Programs\graalvm-community-jdk-23.0.0_windows-x64_bin
 set JAVA_HOME=%GRAALVM_HOME%

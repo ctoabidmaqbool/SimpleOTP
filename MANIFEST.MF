@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.4.2
+Build-Jdk-Spec: 24
+Class-Path: javafx-controls-22.jar javafx-controls-22-win.jar javafx-gra
+ phics-22.jar javafx-graphics-22-win.jar javafx-base-22.jar javafx-base-
+ 22-win.jar javafx-web-22.jar javafx-web-22-win.jar javafx-media-22.jar 
+ javafx-media-22-win.jar javafx-swing-22.jar javafx-swing-22-win.jar FXT
+ rayIcon-4.2.0.jar SystemTray-4.4.jar Collections-2.4.jar Executor-3.13.
+ jar kotlin-stdlib-1.8.0.jar kotlin-stdlib-common-1.8.0.jar annotations-
+ 13.0.jar kotlinx-coroutines-jdk8-1.7.1.jar Desktop-1.1.jar JNA-1.2.jar 
+ OS-1.8.jar Updates-1.1.jar Utilities-1.46.jar kotlinx-coroutines-core-j
+ vm-1.7.3.jar java-uuid-generator-4.2.0.jar javassist-3.29.2-GA.jar jna-
+ jpms-5.13.0.jar jna-platform-jpms-5.13.0.jar slf4j-api-1.8.0-beta4.jar 
+ kotlin-stdlib-jdk8-1.8.0.jar kotlin-stdlib-jdk7-1.8.0.jar slf4j-jdk14-1
+ .8.0-beta4.jar
+Main-Class: com.simtechdata.Main
+
+
+target/modules/javafx-controls-22.jartarget/modules/javafx-controls-22-win.jartarget/modules/javafx-graphics-22.jartarget/modules/javafx-graphics-22-win.jartarget/modules/javafx-base-22.jartarget/modules/javafx-base-22-win.jartarget/modules/javafx-web-22.jartarget/modules/javafx-web-22-win.jartarget/modules/javafx-media-22.jartarget/modules/javafx-media-22-win.jartarget/modules/javafx-swing-22.jartarget/modules/javafx-swing-22-win.jartarget/modules/FXTrayIcon-4.2.0.jartarget/modules/SystemTray-4.4.jartarget/modules/Collections-2.4.jartarget/modules/Executor-3.13.jartarget/modules/kotlin-stdlib-1.8.0.jartarget/modules/kotlin-stdlib-common-1.8.0.jartarget/modules/annotations-13.0.jartarget/modules/kotlinx-coroutines-jdk8-1.7.1.jartarget/modules/Desktop-1.1.jartarget/modules/JNA-1.2.jartarget/modules/OS-1.8.jartarget/modules/Updates-1.1.jartarget/modules/Utilities-1.46.jartarget/modules/kotlinx-coroutines-core-jvm-1.7.3.jartarget/modules/java-uuid-generator-4.2.0.jartarget/modules/javassist-3.29.2-GA.jartarget/modules/jna-jpms-5.13.0.jartarget/modules/jna-platform-jpms-5.13.0.jartarget/modules/slf4j-api-1.8.0-beta4.jartarget/modules/kotlin-stdlib-jdk8-1.8.0.jartarget/modules/kotlin-stdlib-jdk7-1.8.0.jartarget/modules/slf4j-jdk14-1.8.0-beta4.jar

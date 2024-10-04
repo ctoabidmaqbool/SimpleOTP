@@ -30,6 +30,7 @@ call native-image ^
 --add-modules java.net.http ^
 --add-opens java.net.http/java.net.http=ALL-UNNAMED ^
 --add-opens java.base/java.net=ALL-UNNAMED ^
+-Dfile.encoding=UTF-8 ^
 -cp "%CLASSPATH%" ^
 com.simtechdata.Main ^
 -H:+UnlockExperimentalVMOptions ^
