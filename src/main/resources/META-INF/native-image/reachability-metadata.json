@@ -5435,6 +5435,46 @@
       "glob": "vcruntime140_1.dll"
     },
     {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/RemoteNotifications.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/accommodation_camping.glow.0092DA.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/amenity_firestation.p.000000.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/amenity_post_box.p.000000.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/amenity_post_box.p.39AC39.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/transport_bus_station.p.000000.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/transport_bus_station.p.999999.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/transport_train_station.p.000000.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/transport_train_station.p.39AC39.32.png"
+    },
+    {
+      "module": "SimpleOTP",
+      "glob": "dorkbox/transport_train_station.p.666666.32.png"
+    },
+    {
       "module": "java.base",
       "glob": "jdk/internal/icu/impl/data/icudt74b/ubidi.icu"
     },
@@ -5477,6 +5517,5678 @@
     {
       "module": "java.logging",
       "glob": "sun/util/logging/resources/logging_en_US.properties"
+    },
+    {
+      "module": "javafx.controls",
+      "glob": "com/sun/javafx/scene/control/skin/modena/modena.bss"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-console-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-console-l1-2-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-datetime-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-debug-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-errorhandling-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-file-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-file-l1-2-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-file-l2-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-handle-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-heap-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-interlocked-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-libraryloader-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-localization-l1-2-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-memory-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-namedpipe-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-processenvironment-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-processthreads-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-processthreads-l1-1-1.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-profile-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-rtlsupport-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-string-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-synch-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-synch-l1-2-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-sysinfo-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-timezone-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-core-util-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-conio-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-convert-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-environment-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-filesystem-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-heap-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-locale-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-math-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-multibyte-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-private-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-process-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-runtime-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-stdio-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-string-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-time-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "api-ms-win-crt-utility-l1-1-0.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_af.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_af_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_af_Latn_ZA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_af_NA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_af_ZA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_agq.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_agq_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_agq_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_agq_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ak.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ak_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ak_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ak_Latn_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_am.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_am_ET.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_am_Ethi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_am_Ethi_ET.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ann.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ann_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ann_Latn_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ann_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_AE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_Arab_EG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_BH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_DJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_DZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_EG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_EH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_ER.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_IL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_IQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_JO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_KM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_KW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_LB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_LY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_MR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_OM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_PS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_QA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_SA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_SD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_SO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_SS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_SY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_TD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_TN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ar_YE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_as.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_as_Beng.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_as_Beng_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_as_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_asa.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_asa_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_asa_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_asa_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ast.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ast_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ast_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ast_Latn_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_az.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_az_AZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_az_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_az_Cyrl_AZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_az_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_az_Latn_AZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bas.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bas_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bas_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bas_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_be.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_be_BY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_be_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_be_Cyrl_BY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_be__TARASK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bem.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bem_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bem_Latn_ZM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bem_ZM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bez.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bez_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bez_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bez_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bg_BG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bg_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bg_Cyrl_BG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bgc.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bgc_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bgc_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bgc_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bho.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bho_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bho_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bho_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_blo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_blo_BJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_blo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_blo_Latn_BJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bm.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bm_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bm_Latn_ML.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bm_ML.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bn_BD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bn_Beng.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bn_Beng_BD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bn_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bo_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bo_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bo_Tibt.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bo_Tibt_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_br.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_br_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_br_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_br_Latn_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_brx.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_brx_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_brx_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_brx_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bs.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bs_BA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bs_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bs_Cyrl_BA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bs_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_bs_Latn_BA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca_AD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca_ES_VALENCIA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ca_Latn_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ccp.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ccp_BD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ccp_Cakm.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ccp_Cakm_BD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ccp_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ce.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ce_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ce_Cyrl_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ce_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ceb.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ceb_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ceb_Latn_PH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ceb_PH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cgg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cgg_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cgg_Latn_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cgg_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_chr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_chr_Cher.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_chr_Cher_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_chr_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ckb.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ckb_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ckb_Arab_IQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ckb_IQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ckb_IR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cs.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cs_CZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cs_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cs_Latn_CZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_csw.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_csw_CA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_csw_Cans.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_csw_Cans_CA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cv.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cv_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cv_Cyrl_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cv_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cy.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cy_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cy_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_cy_Latn_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_da.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_da_DK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_da_GL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_da_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_da_Latn_DK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dav.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dav_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dav_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dav_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_AT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_BE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_LI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_LU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_de_Latn_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dje.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dje_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dje_Latn_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dje_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_doi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_doi_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_doi_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_doi_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dsb.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dsb_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dsb_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dsb_Latn_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dua.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dua_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dua_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dua_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dyo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dyo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dyo_Latn_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dyo_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dz.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dz_BT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dz_Tibt.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_dz_Tibt_BT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ebu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ebu_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ebu_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ebu_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ee.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ee_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ee_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ee_Latn_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ee_TG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_el.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_el_CY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_el_GR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_el_Grek.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_el_Grek_GR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_el__POLYTON.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_150.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_AE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_AG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_AI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_AS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_AT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_AU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_BB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_BE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_BI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_BM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_BS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_BW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_BZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_CA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_CC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_CK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_CX.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_CY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_DG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_DK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_DM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_ER.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_FJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_FK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_FM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_GY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_HK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_IE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_IL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_IM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_IO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_JE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_JM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_KI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_KN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_KY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_LC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_LR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_LS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_Latn_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_MY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_NA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_NF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_NL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_NR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_NU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_NZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_PG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_PH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_PN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_PR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_PW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_RW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SX.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_SZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_TC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_TK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_TO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_TT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_TV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_UM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_US_POSIX.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_VC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_VG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_VI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_VU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_WS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_ZA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_ZM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_en_ZW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eo_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eo_Latn_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_419.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_AR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_BO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_BR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_BZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_CL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_CO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_CR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_CU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_DO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_EA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_EC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_GQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_GT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_HN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_IC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_Latn_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_MX.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_NI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_PA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_PE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_PH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_PR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_PY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_SV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_UY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_es_VE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_et.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_et_EE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_et_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_et_Latn_EE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eu_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eu_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_eu_Latn_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ewo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ewo_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ewo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ewo_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fa.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fa_AF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fa_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fa_Arab_IR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fa_IR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_BF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_GM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_GN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_GW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_LR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_MR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_SL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Adlm_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_BF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_GM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_GN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_GW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_LR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_BF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_GM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_GN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_GW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_LR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_MR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_SL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_Latn_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_MR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_SL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ff_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fi_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fi_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fi_Latn_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fil.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fil_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fil_Latn_PH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fil_PH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fo_DK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fo_FO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fo_Latn_FO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_BE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_BF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_BI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_BJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_BL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_CA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_CD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_CF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_CG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_CI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_DJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_DZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_GA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_GF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_GN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_GP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_GQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_HT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_KM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_LU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_Latn_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_MC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_MF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_MG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_ML.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_MQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_MR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_MU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_NC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_PF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_PM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_RE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_RW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_SC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_SY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_TD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_TG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_TN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_VU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_WF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fr_YT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_frr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_frr_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_frr_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_frr_Latn_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fur.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fur_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fur_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fur_Latn_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fy.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fy_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fy_Latn_NL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_fy_NL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ga.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ga_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ga_IE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ga_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ga_Latn_IE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gd.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gd_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gd_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gd_Latn_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gl_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gl_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gl_Latn_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gsw.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gsw_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gsw_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gsw_LI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gsw_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gsw_Latn_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gu_Gujr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gu_Gujr_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gu_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_guz.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_guz_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_guz_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_guz_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gv.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gv_IM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gv_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_gv_Latn_IM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ha.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ha_GH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ha_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ha_Latn_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ha_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ha_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_haw.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_haw_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_haw_Latn_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_haw_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_he.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_he_Hebr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_he_Hebr_IL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_he_IL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hi_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hi_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hi_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hi_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hi_Latn_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hr_BA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hr_HR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hr_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hr_Latn_HR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hsb.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hsb_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hsb_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hsb_Latn_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hu_HU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hu_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hu_Latn_HU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hy.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hy_AM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hy_Armn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_hy_Armn_AM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ia.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ia_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ia_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ia_Latn_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_id.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_id_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_id_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_id_Latn_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ie.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ie_EE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ie_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ie_Latn_EE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ig.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ig_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ig_Latn_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ig_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ii.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ii_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ii_Yiii.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ii_Yiii_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_is.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_is_IS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_is_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_is_Latn_IS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_it.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_it_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_it_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_it_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_it_Latn_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_it_SM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_it_VA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ja.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ja_JP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ja_JP_JP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ja_Jpan.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ja_Jpan_JP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jgo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jgo_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jgo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jgo_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jmc.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jmc_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jmc_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jmc_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jv.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jv_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jv_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_jv_Latn_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ka.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ka_GE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ka_Geor.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ka_Geor_GE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kab_DZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kab_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kab_Latn_DZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kam.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kam_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kam_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kam_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kde.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kde_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kde_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kde_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kea.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kea_CV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kea_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kea_Latn_CV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kgp.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kgp_BR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kgp_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kgp_Latn_BR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_khq.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_khq_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_khq_Latn_ML.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_khq_ML.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ki.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ki_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ki_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ki_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kk.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kk_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kk_Cyrl_KZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kk_KZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kkj.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kkj_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kkj_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kkj_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kl_GL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kl_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kl_Latn_GL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kln.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kln_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kln_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kln_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_km.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_km_KH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_km_Khmr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_km_Khmr_KH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kn_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kn_Knda.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kn_Knda_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ko.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ko_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ko_KP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ko_KR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ko_Kore.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ko_Kore_KR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kok.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kok_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kok_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kok_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ks.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ks_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ks_Arab_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ks_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ks_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ks_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksb.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksb_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksb_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksb_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksf.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksf_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksf_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksf_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksh_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksh_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ksh_Latn_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ku.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ku_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ku_Latn_TR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ku_TR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kw.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kw_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kw_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kw_Latn_GB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Latn_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Orya.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Orya_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Telu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_kxv_Telu_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ky.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ky_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ky_Cyrl_KG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ky_KG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lag.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lag_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lag_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lag_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lb.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lb_LU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lb_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lb_Latn_LU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lg_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lg_Latn_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lg_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lij.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lij_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lij_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lij_Latn_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lkt.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lkt_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lkt_Latn_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lkt_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lmo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lmo_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lmo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lmo_Latn_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ln.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ln_AO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ln_CD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ln_CF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ln_CG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ln_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ln_Latn_CD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lo_LA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lo_Laoo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lo_Laoo_LA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lrc.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lrc_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lrc_Arab_IR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lrc_IQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lrc_IR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lt.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lt_LT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lt_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lt_Latn_LT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lu_CD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lu_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lu_Latn_CD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luo_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luo_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luy.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luy_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luy_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_luy_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lv.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lv_LV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lv_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_lv_Latn_LV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mai.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mai_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mai_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mai_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mas.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mas_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mas_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mas_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mas_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mdf.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mdf_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mdf_Cyrl_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mdf_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mer.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mer_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mer_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mer_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mfe.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mfe_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mfe_Latn_MU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mfe_MU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mg_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mg_Latn_MG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mg_MG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgh_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgh_Latn_MZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgh_MZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgo_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mgo_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mi_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mi_Latn_NZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mi_NZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mk.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mk_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mk_Cyrl_MK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mk_MK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ml.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ml_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ml_Mlym.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ml_Mlym_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mn_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mn_Cyrl_MN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mn_MN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mni.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mni_Beng.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mni_Beng_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mni_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mr_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mr_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mr_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ms.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ms_BN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ms_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ms_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ms_Latn_MY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ms_MY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ms_SG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mt.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mt_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mt_Latn_MT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mt_MT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mua.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mua_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mua_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mua_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_my.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_my_MM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_my_Mymr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_my_Mymr_MM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mzn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mzn_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mzn_Arab_IR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_mzn_IR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_naq.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_naq_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_naq_Latn_NA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_naq_NA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nb.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nb_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nb_Latn_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nb_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nb_SJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nd.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nd_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nd_Latn_ZW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nd_ZW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nds.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nds_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nds_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nds_Latn_DE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nds_NL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ne.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ne_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ne_Deva_NP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ne_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ne_NP.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_AW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_BE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_BQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_CW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_Latn_NL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_NL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_SR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nl_SX.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nmg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nmg_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nmg_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nmg_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nn_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nn_Latn_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nn_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nnh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nnh_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nnh_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nnh_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_no.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_no_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_no_Latn_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_no_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_no_NO_NY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_no_SJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nqo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nqo_GN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nqo_Nkoo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nqo_Nkoo_GN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nus.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nus_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nus_Latn_SS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nus_SS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nyn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nyn_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nyn_Latn_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_nyn_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_oc.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_oc_ES.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_oc_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_oc_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_oc_Latn_FR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_om.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_om_ET.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_om_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_om_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_om_Latn_ET.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_or.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_or_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_or_Orya.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_or_Orya_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_os.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_os_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_os_Cyrl_GE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_os_GE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_os_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pa.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pa_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pa_Arab_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pa_Guru.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pa_Guru_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pa_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pa_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pcm.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pcm_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pcm_Latn_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pcm_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pis.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pis_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pis_Latn_SB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pis_SB.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pl_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pl_Latn_PL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pl_PL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_prg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_prg_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_prg_Latn_PL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_prg_PL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ps.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ps_AF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ps_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ps_Arab_AF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ps_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_AO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_BR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_CV.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_GQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_GW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_LU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_Latn_BR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_MO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_MZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_PT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_ST.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_pt_TL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_qu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_qu_BO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_qu_EC.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_qu_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_qu_Latn_PE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_qu_PE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_raj.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_raj_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_raj_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_raj_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rm.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rm_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rm_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rm_Latn_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rn_BI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rn_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rn_Latn_BI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ro.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ro_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ro_Latn_RO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ro_MD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ro_RO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rof.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rof_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rof_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rof_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_BY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_Cyrl_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_KG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_KZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_MD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ru_UA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rw.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rw_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rw_Latn_RW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rw_RW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rwk.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rwk_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rwk_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_rwk_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sa.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sa_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sa_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sa_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sah.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sah_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sah_Cyrl_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sah_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_saq.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_saq_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_saq_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_saq_Latn_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sat.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sat_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sat_Olck.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sat_Olck_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sbp.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sbp_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sbp_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sbp_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sc.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sc_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sc_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sc_Latn_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sd.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sd_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sd_Arab_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sd_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sd_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sd_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sd_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_se.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_se_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_se_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_se_Latn_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_se_NO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_se_SE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_seh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_seh_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_seh_Latn_MZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_seh_MZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ses.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ses_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ses_Latn_ML.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ses_ML.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sg_CF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sg_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sg_Latn_CF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_shi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_shi_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_shi_Latn_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_shi_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_shi_Tfng.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_shi_Tfng_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_si.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_si_LK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_si_Sinh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_si_Sinh_LK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sk.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sk_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sk_Latn_SK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sk_SK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sl_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sl_Latn_SI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sl_SI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_smn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_smn_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_smn_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_smn_Latn_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sms.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sms_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sms_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sms_Latn_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sn_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sn_Latn_ZW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sn_ZW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_so.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_so_DJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_so_ET.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_so_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_so_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_so_Latn_SO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_so_SO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sq.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sq_AL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sq_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sq_Latn_AL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sq_MK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sq_XK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_BA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_CS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Cyrl_BA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Cyrl_ME.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Cyrl_RS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Cyrl_XK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Latn_BA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Latn_ME.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Latn_RS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_Latn_XK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_ME.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_RS.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sr_XK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_su.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_su_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_su_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_su_Latn_ID.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sv.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sv_AX.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sv_FI.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sv_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sv_Latn_SE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sv_SE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sw.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sw_CD.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sw_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sw_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sw_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sw_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_sw_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_syr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_syr_IQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_syr_SY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_syr_Syrc.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_syr_Syrc_IQ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_szl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_szl_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_szl_Latn_PL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_szl_PL.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ta.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ta_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ta_LK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ta_MY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ta_SG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ta_Taml.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ta_Taml_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_te.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_te_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_te_Telu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_te_Telu_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_teo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_teo_KE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_teo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_teo_Latn_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_teo_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tg.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tg_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tg_Cyrl_TJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tg_TJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_th.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_th_TH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_th_TH_TH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_th_Thai.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_th_Thai_TH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ti.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ti_ER.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ti_ET.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ti_Ethi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ti_Ethi_ET.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tk.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tk_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tk_Latn_TM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tk_TM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_to.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_to_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_to_Latn_TO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_to_TO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tok.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tok_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tok_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tok_Latn_001.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tr_CY.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tr_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tr_Latn_TR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tr_TR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tt.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tt_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tt_Cyrl_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tt_RU.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_twq.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_twq_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_twq_Latn_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_twq_NE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tzm.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tzm_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tzm_Latn_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_tzm_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ug.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ug_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ug_Arab_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ug_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uk.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uk_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uk_Cyrl_UA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uk_UA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ur.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ur_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ur_Arab_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ur_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_ur_PK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_AF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_Arab.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_Arab_AF.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_Cyrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_Cyrl_UZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_Latn_UZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_uz_UZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vai.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vai_LR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vai_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vai_Latn_LR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vai_Vaii.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vai_Vaii_LR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vec.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vec_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vec_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vec_Latn_IT.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vi_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vi_Latn_VN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vi_VN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vmw.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vmw_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vmw_Latn_MZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vmw_MZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vun.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vun_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vun_Latn_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_vun_TZ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wae.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wae_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wae_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wae_Latn_CH.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wo_Latn_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_wo_SN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xh_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xh_Latn_ZA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xh_ZA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xnr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xnr_Deva.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xnr_Deva_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xnr_IN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xog.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xog_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xog_Latn_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_xog_UG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yav.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yav_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yav_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yav_Latn_CM.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yi.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yi_Hebr.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yi_Hebr_UA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yi_UA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yo.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yo_BJ.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yo_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yo_Latn_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yo_NG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yrl.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yrl_BR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yrl_CO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yrl_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yrl_Latn_BR.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yrl_VE.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yue.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yue_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yue_HK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yue_Hans.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yue_Hans_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yue_Hant.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_yue_Hant_HK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_za.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_za_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_za_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_za_Latn_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zgh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zgh_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zgh_Tfng.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zgh_Tfng_MA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_HK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hans.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hans_CN.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hans_HK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hans_MO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hans_SG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hant.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hant_HK.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hant_MO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_Hant_TW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_MO.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_SG.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zh_TW.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zu.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zu_Latn.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zu_Latn_ZA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/ui/win/themes_zu_ZA.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/glass/utils/NativeLibLoader.class"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/javafx/tk/quantum/QuantumMessagesBundle.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/javafx/tk/quantum/QuantumMessagesBundle_en.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/javafx/tk/quantum/QuantumMessagesBundle_en_US.properties"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/prism/d3d/hlsl/FillPgram_Color.obj"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/prism/d3d/hlsl/Solid_TextureFirstPassLCD.obj"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/prism/d3d/hlsl/Solid_TextureRGB.obj"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/prism/d3d/hlsl/Solid_TextureSecondPassLCD.obj"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/prism/d3d/hlsl/Texture_Color.obj"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "com/sun/prism/d3d/hlsl/Texture_LinearGradient_PAD.obj"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "glass.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "javafx_font.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "msvcp140.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "msvcp140_1.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "msvcp140_2.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "prism_d3d.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "ucrtbase.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "vcruntime140.dll"
+    },
+    {
+      "module": "javafx.graphics",
+      "glob": "vcruntime140_1.dll"
     }
   ],
   "bundles": [

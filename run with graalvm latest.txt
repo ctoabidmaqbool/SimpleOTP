@@ -1,7 +1,7 @@
 set GRAALVM_HOME=D:\Programs\graalvm-community-java24-windows-amd64-dev
 set JAVA_HOME=%GRAALVM_HOME%
 set PATH=%JAVA_HOME%\bin;%PATH%
-set MAVEN_HOME=D:\Programs\apache-maven-4.0.0-beta-4-bin
+set MAVEN_HOME=D:\Programs\apache-maven-3.9.9-bin
 set PATH=%MAVEN_HOME%\bin;%PATH%
 set GRADLE_HOME=D:\Programs\gradle-7.3.3-bin
 set PATH=%GRADLE_HOME%\bin;%PATH%
@@ -12,10 +12,15 @@ mvn install
 
 mvn clean install
 
+java --enable-preview --module-path "target/SimpleOTP-1.0.jar;target/modules" --enable-native-access=ALL-UNNAMED --enable-native-access=javafx.graphics --enable-native-access=com.sun.jna --add-reads dorkbox.utilities=java.desktop -m SimpleOTP/dorkbox.TestTrayJavaFX
+
 java --enable-preview -cp "target\SimpleOTP-1.0.jar;target\modules\*" com.simtechdata.Main
+
+java --enable-preview -agentlib:native-image-agent=config-merge-dir="src/main/resources/META-INF/native-image" --module-path "target/SimpleOTP-1.0.jar;target/modules" --enable-native-access=ALL-UNNAMED --enable-native-access=javafx.graphics --enable-native-access=com.sun.jna --add-reads dorkbox.utilities=java.desktop -m SimpleOTP/dorkbox.TestTrayJavaFX
 
 java --enable-preview -agentlib:native-image-agent=config-merge-dir="src/META-INF/native-image" -cp "target\SimpleOTP-1.0.jar;target\modules\*" com.simtechdata.Main
 
+native-image --no-fallback --enable-preview --add-modules java.net.http,javafx.base,javafx.graphics,javafx.controls --add-opens java.net.http/java.net.http=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED --module-path "target/SimpleOTP-1.0.jar;target/modules" --module SimpleOTP/dorkbox.TestTrayJavaFX -H:+UnlockExperimentalVMOptions -H:+ReportExceptionStackTraces -H:Name="target/SimpleOTP"
 
 native-image --no-fallback --enable-preview --module-path "target/modules/javafx-controls-22.jar;target/modules/javafx-controls-22-win.jar;target/modules/javafx-graphics-22.jar;target/modules/javafx-graphics-22-win.jar;target/modules/javafx-base-22.jar;target/modules/javafx-base-22-win.jar;target/modules/javafx-web-22.jar;target/modules/javafx-web-22-win.jar;target/modules/javafx-media-22.jar;target/modules/javafx-media-22-win.jar;target/modules/javafx-swing-22.jar;target/modules/javafx-swing-22-win.jar" --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.web,javafx.media -cp "target/SimpleOTP-1.0.jar;target/modules/FXTrayIcon-4.2.0.jar;target/modules/SystemTray-4.4.jar;target/modules/Collections-2.4.jar;target/modules/Executor-3.13.jar;target/modules/kotlin-stdlib-1.8.0.jar;target/modules/kotlin-stdlib-common-1.8.0.jar;target/modules/annotations-13.0.jar;target/modules/kotlinx-coroutines-jdk8-1.7.1.jar;target/modules/Desktop-1.1.jar;target/modules/JNA-1.2.jar;target/modules/OS-1.8.jar;target/modules/Updates-1.1.jar;target/modules/Utilities-1.46.jar;target/modules/kotlinx-coroutines-core-jvm-1.7.3.jar;target/modules/java-uuid-generator-4.2.0.jar;target/modules/javassist-3.29.2-GA.jar;target/modules/jna-jpms-5.13.0.jar;target/modules/jna-platform-jpms-5.13.0.jar;target/modules/slf4j-api-1.8.0-beta4.jar;target/modules/kotlin-stdlib-jdk8-1.8.0.jar;target/modules/kotlin-stdlib-jdk7-1.8.0.jar;target/modules/slf4j-jdk14-1.8.0-beta4.jar" com.simtechdata.Main -H:+UnlockExperimentalVMOptions -H:+ReportExceptionStackTraces -H:Name="target/SimpleOTP"
 

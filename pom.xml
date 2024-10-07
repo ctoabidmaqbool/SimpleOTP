@@ -17,14 +17,14 @@
         <maven-enforcer-plugin>3.5.0</maven-enforcer-plugin>
         <maven-assembly-plugin>3.7.1</maven-assembly-plugin>
         <maven-dependency-plugin>3.8.0</maven-dependency-plugin>
-        <exec-maven-plugin>3.2.0</exec-maven-plugin>
+        <exec-maven-plugin>3.4.1</exec-maven-plugin>
         <exec.domain>com.simtechdata</exec.domain>
-        <mainClass>com.simtechdata.Main</mainClass>
-        <javapackager>1.7.5</javapackager>
+        <mainClass>dorkbox.TestTrayJavaFX</mainClass>
+        <javapackager>1.7.6</javapackager>
         <gluonfx-maven-plugin>1.0.22</gluonfx-maven-plugin>
         <javafx-maven-plugin>0.0.8</javafx-maven-plugin>
         <gluonfx.target>22</gluonfx.target>
-        <moditect-maven-plugin>1.2.1.Final</moditect-maven-plugin>
+        <moditect-maven-plugin>1.2.2.Final</moditect-maven-plugin>
         <versions-maven-plugin>2.17.1</versions-maven-plugin>
     </properties>
 
@@ -132,6 +132,12 @@
                 <configuration>
                     <skipIfEmpty>true</skipIfEmpty>
                     <archive>
+                        <manifestEntries>
+                            <Main-Class>${mainClass}</Main-Class>
+                            <Automatic-Module-Name>${project.artifactId}</Automatic-Module-Name>
+                            <Program-Version>${project.version}</Program-Version>
+                            <Implementation-Version>${project.version}</Implementation-Version>
+                        </manifestEntries>
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <mainClass>${mainClass}</mainClass>
