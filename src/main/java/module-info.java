@@ -1,4 +1,5 @@
 module SimpleOTP {
+    exports dorkbox;
     requires dorkbox.systemtray;
     requires dorkbox.utilities;
     requires dorkbox.desktop;
@@ -10,7 +11,7 @@ module SimpleOTP {
     requires javafx.web;
 
 //    exports dorkbox to javafx.graphics;
-    exports dorkbox to org.graalvm.nativeimage.builder;
+//    exports dorkbox to org.graalvm.nativeimage.builder;
 
     opens com.simtechdata;
 }
